@@ -50,7 +50,7 @@ Assets públicos utilizados:
 
 ---
 
-## 📁 Organização Sugerida do Projeto
+## 📁 Organização do Projeto
 
 ```plaintext
 Assets/
